@@ -1,0 +1,204 @@
+.image {
+  position: relative;
+      max-width: 100%;
+  }
+.body1{
+  background-image: radial-gradient(rgba(81, 152, 222, 0.761),rgb(85, 8, 216) );
+}
+  .stylee {
+    
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: left;
+    color: #fff;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    background-color:  rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    }
+  .cercle{
+    margin: 0 auto;
+    float: right;
+      height: auto;
+      object-fit: cover;
+    -moz-border-radius : 50px 50px;
+    -webkit-border-raduis : 50px 50px ;
+    border-radius: 50px
+    
+  }
+  .logoo{
+    margin: 0 auto;
+    float:  left;
+      height: auto;
+      object-fit: cover;
+    -moz-border-radius : 50px 50px;
+    -webkit-border-raduis : 50px 50px ;
+    border-radius: 50px
+  }
+  .cercle1{
+    float: right;
+    margin: 0 auto;
+   
+    color: #fff;
+    
+  }
+   
+.color{
+  color:black;
+  text-shadow: 2px 2px 4px whitesmoke;
+  font-size: large ;
+  text-align: right;
+}
+  header{
+    background-image: radial-gradient(rgba(81, 152, 222, 0.761),rgb(85, 8, 216) );
+    
+  }
+ header a {
+    color: #fff;
+    font-size: large;
+    text-decoration: none;
+    margin-right: 20px; 
+    
+  }
+ 
+  div {
+    display: block;
+}
+h5{
+  color: #3498db; 
+}
+.co{
+  color: #3498db; 
+  text-shadow: 2px 2px 4px #3498db;
+}
+.langue {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.education-item {
+  flex: 1;
+  padding: 10px;
+  border: 3px hidden / none;
+  border-radius: 5px;
+  margin: 0 10px;
+}
+.langue-item {
+  flex: 1;
+  padding: 10px;
+  border: 3px solid #000000;
+  border-radius: 5px;
+  margin: 0 10px;
+}
+
+.experience {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.experience-chaima {
+  flex: 1;
+  padding: 20px;
+  border: 3px solid #000000;
+  border-radius: 10px;
+  margin: 0 10px;
+  text-align: left;
+}
+
+.experience-chaima img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+.education {
+  margin-top: 40px;
+
+}
+
+.education-chaima {
+  margin-bottom: 20px;
+  text-align: left;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+p {
+  text-align: left;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+.passion {
+  width: 300px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  float: center;
+}
+
+.passion img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+body{
+  background-image: radial-gradient(rgba(195, 209, 223, 0.761),rgb(152, 187, 222) );
+}
+#emailLink {
+  display: inline-block;
+  cursor: pointer;
+}
+.mail3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+
+#emailLink img {
+  max-width: 100%; 
+  max-height: 100%;
+}
+.shadow{
+  box-shadow: 6px 6px 6px black;
+  text-align: center;
+}
+.video-projet {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; 
+}
+
+.shadow2{
+text-shadow: 2px 2px 4px whitesmoke;
+font-style: oblique;
+}
